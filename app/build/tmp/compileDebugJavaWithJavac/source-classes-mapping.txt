@@ -1,0 +1,2 @@
+com/example/marvelouz/BuildConfig.java
+ com.example.marvelouz.BuildConfig
