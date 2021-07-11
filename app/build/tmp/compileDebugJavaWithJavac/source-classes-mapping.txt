@@ -1,2 +1,4 @@
+com/example/marvelouz/databinding/ActivityMainBinding.java
+ com.example.marvelouz.databinding.ActivityMainBinding
 com/example/marvelouz/BuildConfig.java
  com.example.marvelouz.BuildConfig
